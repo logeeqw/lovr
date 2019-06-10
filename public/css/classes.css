@@ -1,0 +1,45 @@
+
+.container{
+    background-color: white;
+    flex-direction: row;
+}
+
+.side{
+    margin-top: 25px;
+}
+
+.profile {
+    display: none;
+    background-color: rgba(227, 227, 227, 0.88);
+    height: 100%;
+}
+
+.cont {
+    margin-left: 1%;
+}
+
+.name{
+    font-size: 50px;
+}
+
+.pic{
+    width: 70%;
+ }
+
+.bio{
+    font-size: 30px;
+    width: 70%;
+}
+
+.decision{
+    margin-top: 1%;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.heart{
+    width: 100px;
+    height: 100px;
+}
+
